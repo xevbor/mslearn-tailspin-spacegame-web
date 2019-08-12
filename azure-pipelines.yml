@@ -10,7 +10,7 @@ variables:
   myMessage: "My test message01!"
 
 steps:
-- script: 'echo "$(myMessage)'
+- script: 'echo $(myMessage)'
   displayName: 'Echo my Var'
   workingDirectory: $(wwwrootDir)
 
