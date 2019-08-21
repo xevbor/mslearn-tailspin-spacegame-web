@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xevbor_mslearn-tailspin-spacegame-web-2&metric=alert_status)](https://sonarcloud.io/dashboard?id=xevbor_mslearn-tailspin-spacegame-web-2)
 
 [![Build Status](https://dev.azure.com/MainFirstOrganization/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/xevbor.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MainFirstOrganization/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
 
